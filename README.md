@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 
 [![bg][banner]][website]
 
-### Currently [I am available for hire][resume]
+### Currently I am [available for hire][resume]
 
 
 🧠 learning [Flutter][flutter] and [tailwind][tailwind]  
-💜 loving [react][react], [React-Native][react-native], [Next.js][next.js], [styled-components][styled], [jamstack][jamstack]  
+💜 loving [React][react], [React-Native][react-native], [Next.js][next.js], [styled-components][styled], [jamstack][jamstack]  
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
